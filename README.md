@@ -1,0 +1,2 @@
+# WooCommerce-Show-Dispatch-Est.-Shipping-Date-Single-Product
+A good way to inform online customers and avoid issues is showing the estimated delivery / dispatch time on the single product page, just below the “Add to Cart” button. Yes, you could do that manually by adding shipping info to each product short description, but the goal of Business Bloomer is to learn how to code that instead, so you won’t need to write things manually.
